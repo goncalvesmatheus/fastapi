@@ -1,3 +1,3 @@
-# fastapi
+# FastAPI
 
-Repository used to studie about FastAPI and Uvicorn
+Repository used to study about FastAPI and Uvicorn
